@@ -1,0 +1,40 @@
+
+S1B25 | 🏁 Entrega: Sequências Lógicas
+
+TROCAR UMA LÂMPADA
+
+1.Desligar a caixa de energia
+2.Desrosquear a lâmpada queimada
+3.Rosquear a lâmpada nova
+4.Ligar a caixa de energia
+5.Acender o interruptor
+
+UMA PESOA BEBER UM COPO COM ÁGUA
+1.Pegar um copo no armário
+2.Ir até o filtro de água
+3.Encher o copo com água
+4.Fechar a válvula do filtro
+5.Levar o copo até a boca
+
+UMA PESSOA FRITAR UM OVO
+1.Pegar uma frigideira
+2.Pegar a manteiga
+3.Acender o fogão
+4.Colocar a manteiga na frigideira
+5.Pegar o ovo 
+6.Fritar o ovo
+
+
+SOMAR DOIS NUMEROS
+1.Número 1
+2.Número 2
+3.Somar 1 e 2
+4.Calcular
+5.Dar o resultado
+
+SOMAR DOIS NÚMEROS E MULTIPLICAR O RESULTADO PELO PRIMEIRO NÚMERO
+1.Somar 1 e 2
+2.Resultado Somar
+3.Resultado
+4.Multiplicar o Resultado por 1
+5.Resultado Multiplicar
